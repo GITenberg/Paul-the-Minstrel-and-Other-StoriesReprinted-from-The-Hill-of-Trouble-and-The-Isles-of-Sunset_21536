@@ -1,0 +1,37 @@
+_repo: Paul-the-Minstrel-and-Other-StoriesReprinted-from-The-Hill-of-Trouble-and-The-Isles-of-Sunset_21536
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Arthur Christopher
+    aliases:
+    - Carr, Christopher
+    - Benson, A. C. (Arthur Christopher)
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '1486'
+    url: http://www.gutenberg.org/2009/agents/1486
+    wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
+description: ''
+gutenberg_issued: '2007-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21536'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+tableOfContents: Paul the minstrel -- The Isles of Sunset -- The waving of the sword
+  -- Renatus -- The Slype House -- Out of the sea -- The troth of the sword -- The
+  Hill of Trouble -- The gray cat -- The Red Camp -- The light of the body -- The
+  snake, the leper, and the grey frost -- Brother Robert -- The closed window -- The
+  brothers -- The Temple of Death -- The tomb of Heiri -- Cerda -- Linus.
+title: 'Paul the Minstrel and Other Stories
+
+  Reprinted from The Hill of Trouble and The Isles of Sunset'
+url: http://www.gutenberg.org/ebooks/21536
